@@ -1,0 +1,1198 @@
+#EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Наши каналы
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Наши каналы
+http://5.142.101.230:8888/udp/225.78.22.22:5000
+#EXTINF:0,Пятница
+#EXTGRP:Наши каналы
+http://5.142.101.230:8888/udp/225.78.22.36:5000
+#EXTINF:0,ТНТ HD
+#EXTGRP:Наши каналы
+http://5.142.101.230:8888/udp/225.78.22.39:5000
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Наши каналы
+http://213.167.219.124:81/udp/225.33.23.226:5000
+#EXTINF:0,СТС HD
+#EXTGRP:Наши каналы
+http://5.142.101.230:8888/udp/225.78.22.33:5000
+#EXTINF:0,СТС Love
+#EXTGRP:Наши каналы
+http://213.167.219.124:81/udp/225.33.23.20:5000
+#EXTINF:0,ТВ-3
+#EXTGRP:Наши каналы
+http://92.240.135.60:4022/udp/232.0.3.15:1234
+#EXTINF:0,Ю
+#EXTGRP:Наши каналы
+http://213.167.219.124:81/udp/225.33.23.205:5000
+#EXTINF:0,Мир
+#EXTGRP:Наши каналы
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,FOX Life HD
+#EXTGRP:Наши каналы
+http://moobl.ru/hls/Fox_Life.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:Наши каналы
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV1000 HD
+#EXTGRP:Наши каналы
+http://92.248.246.217:81/udp/225.0.56.78:1234
+#EXTINF:0,.sci-fi
+#EXTGRP:Наши каналы
+http://176.102.164.216:81/udp/239.192.10.169:1234
+#EXTINF:0,AMEDIA I HD
+#EXTGRP:Наши каналы
+http://46.63.141.176:7777/udp/237.1.2.64:1234
+#EXTINF:0,AMEDIA II HD
+#EXTGRP:Наши каналы
+http://46.63.141.176:7777/udp/237.1.2.65:1234
+#EXTINF:0,AMEDIA HIT HD
+#EXTGRP:Наши каналы
+http://178.163.86.211:4022/udp/234.0.0.169:2000
+#EXTINF:0,AMEDIA PREMIUM HD
+#EXTGRP:Наши каналы
+http://5.137.172.91:1234/udp/225.54.53.30:5000
+#EXTINF:0,2x2 HD
+#EXTGRP:Наши каналы
+http://213.167.219.124:81/udp/225.33.23.211:5000
+#EXTINF:0,BACKUS TV
+#EXTGRP:Наши каналы
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0,Суббота
+#EXTGRP:Наши каналы
+http://bl.uma.media/live/317845/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,Солнце
+#EXTGRP:Наши каналы
+http://31.28.60.223:4022/udp/232.0.2.23:1234
+#EXTINF:0,Че
+#EXTGRP:Наши каналы
+http://178.159.81.82:81/udp/239.195.1.24:1234
+#EXTINF:0,ViP PREMIERE
+#EXTGRP:Наши каналы
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,ViP MEGAHIT HD
+#EXTGRP:Наши каналы
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,ViP SERIAL HD
+#EXTGRP:Наши каналы
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,.black
+#EXTGRP:Наши каналы
+http://194.28.155.159:81/udp/225.0.55.151:1234
+#EXTINF:0,.red
+#EXTGRP:Наши каналы
+http://176.102.164.216:81/udp/239.192.10.75:1234
+#EXTINF:0,СТС Kids HD
+#EXTGRP:Наши каналы
+http://88.218.215.2:81/udp/239.255.0.33:1234
+#EXTINF:0,Hollywood
+#EXTGRP:Наши каналы
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTINF:0,PARAMOUNT COMEDY
+#EXTGRP:Наши каналы
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/6000/index.m3u8
+#EXTINF:0,Настоящее Страшное Телевидение
+#EXTGRP:Наши каналы
+http://pl01.spr24.net/312/mpegts?token=Ks2SdLkb9WvZ2S
+#EXTINF:0,TLC HD
+#EXTGRP:Наши каналы
+http://myott.tv/stream/K9LLINCC26/168.m3u8
+#EXTINF:0,D-TV6
+#EXTGRP:Каналы от Dmitry-tv
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:0,Dmitry-tv HD
+#EXTGRP:Каналы от Dmitry-tv
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:0,Первый канал (+6)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_1TV_6.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1.m3u8
+#EXTINF:0,Россия 1 (+2)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1_2.m3u8
+#EXTINF:0,Россия 1 (+4)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1_4.m3u8
+#EXTINF:0,Россия 1 (+6)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1_6.m3u8
+#EXTINF:0,Россия 1 (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1_7.m3u8
+#EXTINF:0,Россия 1 (+8)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1_8.m3u8
+#EXTINF:0,Россия 1 (+9)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA1_9.m3u8
+#EXTINF:0,Матч!
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_MATCHTV.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:ЭФИРНЫЕ
+http://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:0,НТВ (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_NTV_7.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_5TV.m3u8
+#EXTINF:0,Пятый канал (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_5TV_7.m3u8
+#EXTINF:0,Россия К
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIAK.m3u8
+#EXTINF:0,Россия К (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIAK_7.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIA24.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RUSSIARTR.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_OTR.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_TVC.m3u8
+#EXTINF:0,ТВЦ (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_TVC_7.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RENTV.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RENTVHD.m3u8
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_RENTV_7.m3u8
+#EXTINF:0,СПАС
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_SPAS.m3u8
+#EXTINF:0,СПАС (+2)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_SPAS_2.m3u8
+#EXTINF:0,СТС
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_STS.m3u8
+#EXTINF:0,СТС (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_STS_7.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_DOMASHNIY.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_DOMASHNIYHD.m3u8
+#EXTINF:0,Домашний (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_DOMASHNIY_7.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:ЭФИРНЫЕ
+http://bl.uma.media/live/317846/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,ТВ3 (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_TV3_7.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:ЭФИРНЫЕ
+http://bl.uma.media/live/317843/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_ZVEZDA.m3u8
+#EXTINF:0,Звезда HD
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:0,Звезда (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_ZVEZDA_7.m3u8
+#EXTINF:0,МИР
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MIR.m3u8
+#EXTINF:0,МИР (+2)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_MIR_2.m3u8
+#EXTINF:0,МИР (+4)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_MIR_4.m3u8
+#EXTINF:0,МИР (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_MIR_7.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:ЭФИРНЫЕ
+http://bl.uma.media/live/317850/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_TNT_7.m3u8
+#EXTINF:0,МУЗ ТВ
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_MUZTV.m3u8
+#EXTINF:0,МУЗ ТВ (+7)
+#EXTGRP:ЭФИРНЫЕ
+http://dmitry-tv.ml/hls/T2/CH_MUZTV_7.m3u8
+#EXTINF:0,ШАЯН (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_SHAYAN_KZN.m3u8
+#EXTINF:0,ШАЯН HD (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:0,Atameken HD720 (Казахстан)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_ATAMEKENHD720_KZHTN.m3u8
+#EXTINF:0,UNIVER (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_UNIVER_KZN.m3u8
+#EXTINF:0,UNIVER HD (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:0,Губерния (Самара)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:0,TV Губерния (Воронеж)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TVGUBERNIA_VRZH.m3u8
+#EXTINF:0,Эхо ТВ 24 (Екатеринбург)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_ECHOTV24_EKT.m3u8
+#EXTINF:0,Белгород 24 HD720 (Белгород)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_BELGOROD24HD720_BELG.m3u8
+#EXTINF:0,ЮТВ (Чебоксары)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_UTV_CHR.m3u8
+#EXTINF:0,STR TV (Симферополь)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_STRTV_SMRPL.m3u8
+#EXTINF:0,Ника ТВ (Калуга)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NIKA_KALUGA.m3u8
+#EXTINF:0,АИСТ HD (Иркутск)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_AISTHD_IRK.m3u8
+#EXTINF:0,Санкт-Петербург (Санкт-Петербург)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_SANKTPETERBURG_SPB.m3u8
+#EXTINF:0,Санкт-Петербург HD (Санкт-Петербург)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_SANKTPETERBURGHD_SPB.m3u8
+#EXTINF:0,Москва 24 (Москва)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_MOSKVA24_MSK.m3u8
+#EXTINF:0,РБК (Уфа)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_RBK_UFA.m3u8
+#EXTINF:0,Народное телевидение Мордовии (Саранск)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NTM_SRNK.m3u8
+#EXTINF:0,Народное телевидение Мордовии HD720 (Саранск)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:0,НТС (Севастополь)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_NTS_SVTPL.m3u8
+#EXTINF:0,НТС HD (Севастополь)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NTSHD_SVTPL.m3u8
+#EXTINF:0,Липецкое время (Липецк)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_LVREMYA_LIPETSK.m3u8
+#EXTINF:0,ДОН 24 (Ростовская область)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_DON24_RD_OBL.m3u8
+#EXTINF:0,ДОН 24 HD (Ростовская область)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_DON24HD_RD_OBL.m3u8
+#EXTINF:0,Мир Белогорья HD720 (Белгород)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_MIR_BLGRYAHD720_BELG.m3u8
+#EXTINF:0,Татарстан 24 (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TATARSTAN24_KZN.m3u8
+#EXTINF:0,TMTV (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TMTV_KZN.m3u8
+#EXTINF:0,TV1000 ТРК ЭРОС (Волгоград)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
+#EXTINF:0,Миллет ТВ HD720 (Симферополь)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_MILLETHD720_SMRPL.m3u8
+#EXTINF:0,НВК САХА HD (Якутск)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NVC_SAHAHD_YKT.m3u8
+#EXTINF:0,Ямал-Регион (Ноябрьск)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_YAMREG_NBK.m3u8
+#EXTINF:0,Ямал-Регион HD720 (Ноябрьск)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_YAMREGHD720_NBK.m3u8
+#EXTINF:0,ТВР 24 HD720 (Сергиев Посад)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TVR24HD720_SP.m3u8
+#EXTINF:0,Тивиком HD (Улан-Удэ)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TIVICOMHD_UUDE.m3u8
+#EXTINF:0,ТКР (Рязань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TKR_RYAZ.m3u8
+#EXTINF:0,Югра (Тюмень)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_UGRA_TUM.m3u8
+#EXTINF:0,СВОЁ ТВ (Ставропольский край)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_SVOETV_STAVR.m3u8
+#EXTINF:0,ТНВ Планета (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TNVPLANETA_KZN.m3u8
+#EXTINF:0,ТНВ Татарстан (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TNVT_KZN.m3u8
+#EXTINF:0,Майдан (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_MAIDAN_KZN.m3u8
+#EXTINF:0,КУРАЙ (Башкортостан)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_KURAY_BSHRSN.m3u8
+#EXTINF:0,ТАМЫР (Уфа)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_TAMYR_UFA.m3u8
+#EXTINF:0,САЛЯМ (Уфа)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_SALYAM_UFA.m3u8
+#EXTINF:0,Эфир (Казань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_EFIR_KZN.m3u8
+#EXTINF:0,С86 (Сургут)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_C86_SUR.m3u8
+#EXTINF:0,РГВК Дагестан (Махачкала)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:0,РГВК Дагестан HD (Махачкала)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_DAGESTANHD_MAHACHK.m3u8
+#EXTINF:0,Экспресс HD (Пенза)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_EXPRESSHD_PENZA.m3u8
+#EXTINF:0,Нижний Новгород 24 HD720 (Нижний Новгород)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NN24HD720_NN.m3u8
+#EXTINF:0,ННТВ HD720 (Нижний Новгород)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_NNTVHD720_NN.m3u8
+#EXTINF:0,Русский Север HD (Вологда)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_RUSEVERHD_VOL.m3u8
+#EXTINF:0,Ветта-24 (Пермь)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_VETTA24_PERM.m3u8
+#EXTINF:0,Астрахань LIVE HD (Астрахань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
+#EXTINF:0,Астрахань 24 (Астраханская область)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_ASTRAKHAN24_ASTRH.m3u8
+#EXTINF:0,Астрахань 24 HD720 (Астрахань)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_ASTRAKHAN24HD720_ASTRH.m3u8
+#EXTINF:0,Almaty TV HD720 (казахстан)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_ALMATYTVHD720_KZHTN.m3u8
+#EXTINF:0,БСТ (Уфа)
+#EXTGRP:РЕГИОНАЛЬНЫЕ
+http://dmitry-tv.ml/hls/region/CH_BST_UFA.m3u8
+#EXTINF:0,Матч! СТРАНА
+#EXTGRP:СПОРТИВНЫЕ
+http://bl.uma.media/live/291663/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,Матч! СТРАНА HD720
+#EXTGRP:СПОРТИВНЫЕ
+http://bl.uma.media/live/291663/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:0,Viasat Sport
+#EXTGRP:СПОРТИВНЫЕ
+http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,Viasat Sport HD720
+#EXTGRP:СПОРТИВНЫЕ
+http://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:0,Старт
+#EXTGRP:СПОРТИВНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_START.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:СПОРТИВНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_STARTHD.m3u8
+#EXTINF:0,FOX HD
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://moobl.ru/hls/Fox_Life.m3u8
+#EXTINF:0,Новый мир
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_NEWMIR.m3u8
+#EXTINF:0,Первый крымский
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_1KRYM.m3u8
+#EXTINF:0,ViP MEGAHIT
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_ViPMEGAHIT.m3u8
+#EXTINF:0,ViP COMEDY
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_ViPCOMEDY.m3u8
+#EXTINF:0,ViP SERIAL
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_ViPSERIAL.m3u8
+#EXTINF:0,TV1000
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_TV1000.m3u8
+#EXTINF:0,TV1000 ACTION
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_TV1000ACTION.m3u8
+#EXTINF:0,TV1000 ACTION HD
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:0,TV1000 РУССКОЕ КИНО
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_TV1000RUSSKOEKINO.m3u8
+#EXTINF:0,TV1000 РУССКОЕ КИНО HD
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_TV1000RUSSKOEKINOHD.m3u8
+#EXTINF:0,AMEDIA I
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_AMEDIAI.m3u8
+#EXTINF:0,AMEDIA II
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_AMEDIAII.m3u8
+#EXTINF:0,AMEDIA HIT
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_AMEDIAHIT.m3u8
+#EXTINF:0,FOX
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_FOX.m3u8
+#EXTINF:0,FOX Life
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_FOXLIFE.m3u8
+#EXTINF:0,Феникс+Кино
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_FENIKSPLUSKINO.m3u8
+#EXTINF:0,Zee TV (Россия)
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://194.213.23.7:3304
+#EXTINF:0,Мир сериала
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_MIR_SERIALA.m3u8
+#EXTINF:0,Комедия
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_KOMEDIYA.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:КИНО И СЕРИАЛЫ
+http://dmitry-tv.ml/hls/CH_PARAMOUNT.m3u8
+#EXTINF:0,2x2
+#EXTGRP:РАЗВЛЕКАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_2X2.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:РАЗВЛЕКАТЕЛЬНЫЕ
+http://bl.uma.media/live/317849/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:0,360°
+#EXTGRP:РАЗВЛЕКАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_360TV.m3u8
+#EXTINF:0,360° HD
+#EXTGRP:РАЗВЛЕКАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_360TVHD.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_STSKIDS.m3u8
+#EXTINF:0,BabyTV
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_BABYTV.m3u8
+#EXTINF:0,Tiji
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_TIJI.m3u8
+#EXTINF:0,JimJam
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_JIMJAM.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_CARTOON_NETWORK.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_MULTIMANIYA.m3u8
+#EXTINF:0,Мультиландия HD
+#EXTGRP:ДЕТСКИЕ
+http://dmitry-tv.ml/hls/CH_MULTIMANIYAHD.m3u8
+#EXTINF:0,DW ENGLISH
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_ENGLISH.m3u8
+#EXTINF:0,DW ENGLISH HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_ENGLISHHD.m3u8
+#EXTINF:0,DW ARABIC
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_ARABIC.m3u8
+#EXTINF:0,DW ARABIC HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_ARABICHD.m3u8
+#EXTINF:0,DW DEUTSCH
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_DEUTSCH.m3u8
+#EXTINF:0,DW DEUTSCH HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_DEUTSCHHD.m3u8
+#EXTINF:0,DW DEUTSCH+
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_DEUTSCHPLUS.m3u8
+#EXTINF:0,DW DEUTSCH+ HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_DEUTSCHPLUSHD.m3u8
+#EXTINF:0,DW ESPANOL
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_ESPANOL.m3u8
+#EXTINF:0,DW ESPANOL HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_DW_ESPANOLHD.m3u8
+#EXTINF:0,CGTN ENGLISH
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_CGTN_ENGLISH.m3u8
+#EXTINF:0,CGTN ESPANOL
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_CGTN_ESPANOL.m3u8
+#EXTINF:0,CGTN FRANCAIS
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_CGTN_FRANCAIS.m3u8
+#EXTINF:0,CGTN ARABIC
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_CGTN_ARABIC.m3u8
+#EXTINF:0,CGTN РУССКИЙ
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_CGTN_RU.m3u8
+#EXTINF:0,CGTN DOCUMENTARY
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:0,IZ.RU
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_IZRU.m3u8
+#EXTINF:0,IZ.RU HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_IZRUHD.m3u8
+#EXTINF:0,Евроновости
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_EURONOVOSTI.m3u8
+#EXTINF:0,360° НОВОСТИ
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_360TV_NEWS.m3u8
+#EXTINF:0,360° НОВОСТИ HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_360TV_NEWSHD.m3u8
+#EXTINF:0,МИР 24
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MIR24.m3u8
+#EXTINF:0,МИР 24 HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_MIR24HD.m3u8
+#EXTINF:0,РБК
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_RBK.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RBKHD.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_REDLINE.m3u8
+#EXTINF:0,1-вый Национальный канал HD720
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_1RNKHD720.m3u8
+#EXTINF:0,TV5MONDE INFO HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_TV5MONDEINFOHD.m3u8
+#EXTINF:0,ЛДПР ТВ HD720
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_LDPRTVHD720.m3u8
+#EXTINF:0,Министерство идей HD720
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_MIDEYHD720.m3u8
+#EXTINF:0,Мособр ТВ
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_MOSOBRTV.m3u8
+#EXTINF:0,Мособр ТВ HD720
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_MOSOBRTVHD720.m3u8
+#EXTINF:0,RT
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RT.m3u8
+#EXTINF:0,RT HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RTHD.m3u8
+#EXTINF:0,RTД (Россия)
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RTD.m3u8
+#EXTINF:0,RTД HD (Россия)
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RTDHD.m3u8
+#EXTINF:0,TV BRICS
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_TVBRICS.m3u8
+#EXTINF:0,TV BRICS HD
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_TVBRICSHD.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:ИНФОРМАЦИОННЫЕ
+http://dmitry-tv.ml/hls/CH_KALEYDOSKOPTV.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmi3y-tv.ru/hls/CH_NATGEOHD.m3u8
+#EXTINF:0,Эхо-ТВ
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_ECHOTV.m3u8
+#EXTINF:0,Моя планета
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_MOYAPLANETA.m3u8
+#EXTINF:0,LUXURY
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_LUXURY.m3u8
+#EXTINF:0,LUXURY HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_LUXURYHD.m3u8
+#EXTINF:0,ПРОДВИЖЕНИЕ
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:0,KAZAKH TV [RUS]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTV_RUS.m3u8
+#EXTINF:0,KAZAKH TV HD [RUS]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTVHD_RUS.m3u8
+#EXTINF:0,KAZAKH TV [KAZ]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTV_KAZ.m3u8
+#EXTINF:0,KAZAKH TV HD [KAZ]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTVHD_KAZ.m3u8
+#EXTINF:0,KAZAKH TV [ENG]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTV_ENG.m3u8
+#EXTINF:0,KAZAKH TV HD [ENG]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTVHD_ENG.m3u8
+#EXTINF:0,KAZAKH TV [KIR]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTV_KIR.m3u8
+#EXTINF:0,KAZAKH TV HD [KIR]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTVHD_KIR.m3u8
+#EXTINF:0,KAZAKH TV [UZB]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTV_UZB.m3u8
+#EXTINF:0,KAZAKH TV HD [UZB]
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_KAZAKHTVHD_UZB.m3u8
+#EXTINF:0,Союз
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_SOYUZ.m3u8
+#EXTINF:0,Общественное Независимое Телевидение
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_ONTV.m3u8
+#EXTINF:0,ТВ7
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_TV7.m3u8
+#EXTINF:0,ТВ7 HD720
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_TV7HD720.m3u8
+#EXTINF:0,Крым 24
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_24KRYM.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_NATGEO.m3u8
+#EXTINF:0,National Geographic WILD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_NATGEOWILD.m3u8
+#EXTINF:0,National Geographic WILD HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_NATGEOWILDHD.m3u8
+#EXTINF:0,Viasat Nature
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_VIASATNATURE.m3u8
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_VIASATNATUREHD.m3u8
+#EXTINF:0,Viasat History
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_VIASATHISTORY.m3u8
+#EXTINF:0,Viasat History HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_VIASATHISTORYHD.m3u8
+#EXTINF:0,Viasat Explore
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_VIASATEXPLORE.m3u8
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_VIASATEXPLOREHD.m3u8
+#EXTINF:0,Загородный int
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_ZAGORODNY_INT.m3u8
+#EXTINF:0,Загородный int HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_ZAGORODNY_INTHD.m3u8
+#EXTINF:0,RTG SD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RTGSD.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_RTGHD.m3u8
+#EXTINF:0,Диалоги о рыбалке
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_DIALOGIORYBALKE.m3u8
+#EXTINF:0,Диалоги о рыбалке HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_DIALOGIORYBALKEHD.m3u8
+#EXTINF:0,Мир вокруг
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MIRVOKRUG.m3u8
+#EXTINF:0,Мир вокруг HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MIRVOKRUGHD.m3u8
+#EXTINF:0,Наша Сибирь
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_NASHASIBIR.m3u8
+#EXTINF:0,Наша Сибирь HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_NASHASIBIRHD.m3u8
+#EXTINF:0,Galaxy TV
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_GALAXY.m3u8
+#EXTINF:0,Дикий Охота и рыбалка
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_DIKIY.m3u8
+#EXTINF:0,Дикая Охота
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_DIKAYAOHOTA.m3u8
+#EXTINF:0,Дикая Охота HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_DIKAYAOHOTAHD.m3u8
+#EXTINF:0,Дикая рыбалка
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_DIKAYARYBALKA.m3u8
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_DIKAYARYBALKAHD.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_SHANSONTV.m3u8
+#EXTINF:0,Муз Союз
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:0,Радио Хит ТВ
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_RADIOHIT.m3u8
+#EXTINF:0,Новое Радио HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_NOVOERADIOHD.m3u8
+#EXTINF:0,OCKO HITY
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_OCKOHITY.m3u8
+#EXTINF:0,OCKO EXPRES
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_OCKOEXPRES_PM.m3u8
+#EXTINF:0,OCKO STAR
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_OCKOSTAR.m3u8
+#EXTINF:0,Glas Drine Music Tv HD720
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:0,1 MUSIC CHANNEL
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_1MUSIC_CHANNEL_HU.m3u8
+#EXTINF:0,1HD MUSIC TELEVISION HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_1HDMUSICTELEVISIONHD.m3u8
+#EXTINF:0,RUTV
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_RUTV.m3u8
+#EXTINF:0,RUTV HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_RUTVHD.m3u8
+#EXTINF:0,M2O TV
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_M2OTV.m3u8
+#EXTINF:0,RETRO MUSIC TV
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_RETROMUSICTV.m3u8
+#EXTINF:0,OneBY
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_1MUZ.m3u8
+#EXTINF:0,OneBY HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://rtmp.one.by:1300
+#EXTINF:0,OneBY RUS
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://rtmp.one.by:2200
+#EXTINF:0,OneBY RUS HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://rtmp.one.by:2300
+#EXTINF:0,Говорит Москва HD720 (студия)
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_GOVORITMOSKVAHD720.m3u8
+#EXTINF:0,РORTAL FOXMIX TV
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_PORTALFOXMIXTV.m3u8
+#EXTINF:0,MUSIC BOX GOLD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MUSICBOXGOLD.m3u8
+#EXTINF:0,MUSIC BOX RUSSIA
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MUSICBOXRU.m3u8
+#EXTINF:0,MUSIC BOX RUSSIA HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_MUSICBOXRUHD.m3u8
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_TNTMUSIC.m3u8
+#EXTINF:0,ТНТ MUSIC HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_TNTMUSICHD.m3u8
+#EXTINF:0,HITV
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_HITV.m3u8
+#EXTINF:0,HITV HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_HITVHD.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_EUROPAPLUSTV.m3u8
+#EXTINF:0,Europa Plus TV HD
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/yatv/CH_EUROPAPLUSTVHD.m3u8
+#EXTINF:0,MTV 80s
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_MTV80S.m3u8
+#EXTINF:0,MTV (Россия)
+#EXTGRP:МУЗЫКАЛЬНЫЕ
+http://dmitry-tv.ml/hls/CH_MTV.m3u8
+#EXTINF:0,Top Shop TV
+#EXTGRP:ТЕЛЕМАГАЗИНЫ
+http://dmitry-tv.ml/hls/CH_TOPSHOP.m3u8
+#EXTINF:0,8 канал
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_8CHANNEL.m3u8
+#EXTINF:0,Настоящее время
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_NVREMYA.m3u8
+#EXTINF:0,Настоящее время HD
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_NVREMYAHD.m3u8
+#EXTINF:0,О-Т-В
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_O_T_V.m3u8
+#EXTINF:0,Хузур ТВ HD720
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_HUZURTVHD720.m3u8
+#EXTINF:0,Red Bull TV HD
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_REDBULLTVHD.m3u8
+#EXTINF:0,AKAMAI
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_AKAMAI.m3u8
+#EXTINF:0,AKAMAI HD720
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/CH_AKAMAIHD720.m3u8
+#EXTINF:0,Вечерняя Москва
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/yatv/CH_VM.m3u8
+#EXTINF:0,Вечерняя Москва HD
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/yatv/CH_VMHD.m3u8
+#EXTINF:0,Эхо Москвы
+#EXTGRP:ПРОЧИЕ
+http://dmitry-tv.ml/hls/yatv/CH_EHOMOSKVY.m3u8
+#EXTINF:0,8 канал (Витебск)
+#EXTGRP:БЕЛАРУСЬ BY
+http://95.46.208.8:24433/art
+#EXTINF:0,8 канал HD (Витебск)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_8CHANNELHD_VIT.m3u8
+#EXTINF:0,Витебск HD720 (Витебск)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_VITEBSKHD720_VIT.m3u8
+#EXTINF:0,Беларусь 4 (Витебск)
+#EXTGRP:БЕЛАРУСЬ BY
+http://95.46.208.8:26258/belarus4
+#EXTINF:0,Беларусь 4 HD (Витебск)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_BELARUS4HD_VIT.m3u8
+#EXTINF:0,Беларусь 24 (Беларусь)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_BELARUS24_BLRUS.m3u8
+#EXTINF:0,Беларусь 24 HD (Беларусь)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_BELARUS24HD_BLRUS.m3u8
+#EXTINF:0,СТВ (Беларусь)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_STV_BLRUS.m3u8
+#EXTINF:0,СТВ HD (Беларусь)
+#EXTGRP:БЕЛАРУСЬ BY
+http://dmitry-tv.ml/hls/blrus/CH_STVHD_BLRUS.m3u8
+#EXTINF:0,Наше ТВ (Витебск)
+#EXTGRP:БЕЛАРУСЬ BY
+http://95.46.208.8:26259/nashe
+#EXTINF:0,1+1 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_1PLUS1.m3u8
+#EXTINF:0,2+2 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_2PLUS2.m3u8
+#EXTINF:0,Болт [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_BOLT.m3u8
+#EXTINF:0,112 Украина HD [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_112UKRAINAHD.m3u8
+#EXTINF:0,СПОРТ HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_SPORTHD720.m3u8
+#EXTINF:0,ATR [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ATR.m3u8
+#EXTINF:0,UA TV HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_UATVHD720.m3u8
+#EXTINF:0,Надiя HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_NADIYAHD720.m3u8
+#EXTINF:0,Надiя - Новий Канал [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_NADIYA_NOVYKANAL.m3u8
+#EXTINF:0,Третий Цифровой [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_3CIFROVOY.m3u8
+#EXTINF:0,Первый Городской HD720 (Кривой Рог) [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_1GORODSKOYHD720_KR.m3u8
+#EXTINF:0,Первый Городской (Одесса) [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_1GORODSKOY_OD.m3u8
+#EXTINF:0,IНТЕР [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_INTER.m3u8
+#EXTINF:0,K1 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_K1.m3u8
+#EXTINF:0,А1 (Одесса) [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_A1_OD.m3u8
+#EXTINF:0,А1 HD720 (Одесса) [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_A1HD720_OD.m3u8
+#EXTINF:0,Думская TV [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_DUMSKAYATV.m3u8
+#EXTINF:0,Думская TV HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_DUMSKAYATVHD720.m3u8
+#EXTINF:0,Здоровье [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ZDOROVE.m3u8
+#EXTINF:0,Репортер [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_REPORTER.m3u8
+#EXTINF:0,Репортер HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_REPORTERHD720.m3u8
+#EXTINF:0,Сварожичи ТВ [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_SVAROZHICHI.m3u8
+#EXTINF:0,Круг [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_KRUG.m3u8
+#EXTINF:0,7 Канал HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_7TVHD720.m3u8
+#EXTINF:0,TV5 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TV5.m3u8
+#EXTINF:0,Южная волна [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_YUZHNAYAVOLNA.m3u8
+#EXTINF:0,Южная волна HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_YUZHNAYAVOLNAHD720.m3u8
+#EXTINF:0,24 канал [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_24CHANNEL.m3u8
+#EXTINF:0,24 канал HD [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_24CHANNELHD.m3u8
+#EXTINF:0,M1 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_M1.m3u8
+#EXTINF:0,M1 HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_M1HD720.m3u8
+#EXTINF:0,M2 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_M2.m3u8
+#EXTINF:0,M2 HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_M2HD720.m3u8
+#EXTINF:0,НТН [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_NTN.m3u8
+#EXTINF:0,ГLAS [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_GLAS.m3u8
+#EXTINF:0,PLUS [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_PLUS.m3u8
+#EXTINF:0,LALE [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_LALE.m3u8
+#EXTINF:0,ODESA LIVE [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ODESALIVE.m3u8
+#EXTINF:0,ODESA LIVE HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ODESALIVEHD720.m3u8
+#EXTINF:0,Первый Деловой HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_1DELOVOYHD720.m3u8
+#EXTINF:0,34 канал [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_34CHANNEL.m3u8
+#EXTINF:0,Одеса [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ODESA.m3u8
+#EXTINF:0,СК1 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_CK1.m3u8
+#EXTINF:0,СК1 HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_CK1HD720.m3u8
+#EXTINF:0,Правда ТУТ HD720 (Киiв) [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_PRAVDATUTHD720_KV.m3u8
+#EXTINF:0,Travel Guid-TV HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TRAVELGUIDTVHD720.m3u8
+#EXTINF:0,BAMBARBIA TV [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_BAMBARBIATV.m3u8
+#EXTINF:0,BAMBARBIA TV HD [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_BAMBARBIATVHD.m3u8
+#EXTINF:0,7D7 [UA]
+#EXTGRP:УКРАИНА UA
+http://95.67.12.149:9083
+#EXTINF:0,iTV [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_iTV.m3u8
+#EXTINF:0,iTV HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_iTVHD720.m3u8
+#EXTINF:0,KRATU [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_KRATU.m3u8
+#EXTINF:0,Херсон [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_KHERSON.m3u8
+#EXTINF:0,ВТВ Плюс [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_VTVPLUS.m3u8
+#EXTINF:0,Измаил [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_IZMAIL.m3u8
+#EXTINF:0,IНШИЙ HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_INSHIYHD720.m3u8
+#EXTINF:0,Перший Західний [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_1ZAKHIDNIY.m3u8
+#EXTINF:0,Прямий [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_PRYAMIY.m3u8
+#EXTINF:0,Прямий HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_PRYAMIYHD720.m3u8
+#EXTINF:0,ТВ Бердянск [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TVBERDYANSK.m3u8
+#EXTINF:0,ТВА [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TVA.m3u8
+#EXTINF:0,ТВiй+ПЛЮС [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TViYPLUS.m3u8
+#EXTINF:0,Тернопіль 1 HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TERNOPIL1HD720.m3u8
+#EXTINF:0,ТIС ТВ [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TIC.m3u8
+#EXTINF:0,ТIС ТВ HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_TICHD720.m3u8
+#EXTINF:0,ЧП.INFO [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_CHPINFO.m3u8
+#EXTINF:0,ГiТ ТВ HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_GiTHD720.m3u8
+#EXTINF:0,Рада ТВ [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_RADA.m3u8
+#EXTINF:0,ID Fashion TV [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_IDFASHION.m3u8
+#EXTINF:0,ID Fashion TV HD [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_IDFASHIONHD.m3u8
+#EXTINF:0,Fashion & Lifestyle [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_FASHIONLIFESTYLE.m3u8
+#EXTINF:0,Fashion & Lifestyle HD [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_FASHIONLIFESTYLEHD.m3u8
+#EXTINF:0,Odessa Fashion TV HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ODESSAFASHIONHD720.m3u8
+#EXTINF:0,Сигма ТВ HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_SIGMAHD720.m3u8
+#EXTINF:0,Алекс TV [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ALEXTV.m3u8
+#EXTINF:0,Аверс [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_AVERS.m3u8
+#EXTINF:0,Академiя HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_AKADEMIAHD720.m3u8
+#EXTINF:0,Донеччина TV HD720 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_DONECHCHINATVHD720.m3u8
+#EXTINF:0,Odessa int. [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ODESSA_INT.m3u8
+#EXTINF:0,Страна советов [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_STRANASOVETOV.m3u8
+#EXTINF:0,RENOME [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_RENOME.m3u8
+#EXTINF:0,iРТ [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_iPT.m3u8
+#EXTINF:0,Орбiта [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_ORBiTA.m3u8
+#EXTINF:0,ЧЕРНОМОРСКАЯ ТРК [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_CHERNOMORSKAYA.m3u8
+#EXTINF:0,NEWS24 [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_NEWS24.m3u8
+#EXTINF:0,Simon TV [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_SIMON.m3u8
+#EXTINF:0,Skrypin HD [UA]
+#EXTGRP:УКРАИНА UA
+http://dmitry-tv.ml/hls/ua/CH_SKRYPINHD.m3u8
